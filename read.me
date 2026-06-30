@@ -1,0 +1,24 @@
+git config --global user.name "nhập tên"
+git config --global user.email "nhập email"
+
+//muốn sửa tên hay email cứ gõ lại lệnh trên + tên mới
+
+để kiểm tra đã thiết lập ok chưa  :
+git config --global user.name
+git config --global user.email
+
+git init : thông báo sẽ git cho folder này , chỉ làm 1 lần cho mỗi dự án
+git remote origin " đường dẫn copy trên git hub " là để kết nối folder vs repon trên github
+
+git remote -v là để ktr lại xem đẫ kết nối đúng chưa
+
+thao tác đẩy code lên git hub gồm 3 combo và các lưu ý:
+1. git add .
+2. git commit -m "noi dung commit "
+3. git push : {
+    lưu ý là ở lần đầu push sẽ dùng câu lệnh : git push -u origin main/master tùy máy
+    
+
+    lần bình thường tức qua lần đầu của 1 dự án rồi thì chỉ cần push thôi ko cần -u origin
+      
+}
