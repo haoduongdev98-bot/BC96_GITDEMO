@@ -7,3 +7,9 @@ các bước đẩy code lên git:
 3. git push 
 Lưu ý là ở bước 3 nếu là ở các nhánh mới tạo thì bước 3 sẽ ko đc mà phải 
 git origin -u + tên nhánh là master / main hoặc tên nhánh đã tạo bất kỳ r sau đó git push lại thì mới xong
+ádasdasd
+ádasdasd
+ádasdasd
+ádasdasd
+ádasdasd
+ádasdasd
