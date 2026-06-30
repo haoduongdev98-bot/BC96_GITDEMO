@@ -1,6 +1,6 @@
 123 456 789
 
-mới thay đổi ở đâ
+mới thay đổi ở đây
 các bước đẩy code lên git:
 1. git add .
 2. git commit -m "viet gi cung dc "
