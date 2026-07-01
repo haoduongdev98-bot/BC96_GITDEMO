@@ -26,3 +26,12 @@ thao tác đẩy code lên git hub gồm 3 combo và các lưu ý:
 công việc giành cho người mới 
 1. git checkout main 
 2. git pull origin main 
+cố để kiểm tra và lấy code mới nhất đã đc đẩy ở trên git về 
+
+3. git checkout -b DevB (để tạo nhánh và code trên nhánh này)
+4. đẩy code lên đối vs nhánh mới trước khi git push thì sẽ nhập : git push -u origin + tên nhánh của dev đó bản chất nó là git set--upstream + tên nhánh tức 2 thằng là 1 , khuyến nghị dùng git push -u origin + tên nhánh cho lẹ
+
+sau khi push lên nhánh riêng rồi nếu muốn merge code vào nhánh chính là main / master tùy máy thì :
+1. lên git hub ktr xem code ở nhánh B đã thật sự đc đẩy lên đó chưa 
+2. git checkout main / master tùy máy để vào nhánh đó 
+3. làm lại bộ 3 cú pháp đẩy code : git add .  , git commmit -m"" , git push 
