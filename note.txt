@@ -12,3 +12,4 @@ git checkout :đi đến lần commit nào đó để ktr , đi đến main / ma
 brand : nhánh
 
 dòng code edit  trực tiếp trên github
+số 1
