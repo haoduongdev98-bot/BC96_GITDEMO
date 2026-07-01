@@ -10,3 +10,5 @@ git origin -u + tên nhánh là master / main hoặc tên nhánh đã tạo bấ
 
 git checkout :đi đến lần commit nào đó để ktr , đi đến main / master 
 brand : nhánh
+
+dòng code edit  trực tiếp trên github
